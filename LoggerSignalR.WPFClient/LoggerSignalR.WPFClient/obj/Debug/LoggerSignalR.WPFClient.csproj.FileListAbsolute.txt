@@ -1,0 +1,17 @@
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\bin\Debug\LoggerSignalR.WPFClient.exe.config
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\bin\Debug\LoggerSignalR.WPFClient.exe
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\bin\Debug\LoggerSignalR.WPFClient.pdb
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\obj\Debug\LoggerSignalR.WPFClient.csprojResolveAssemblyReference.cache
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\obj\Debug\MainWindow.baml
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\obj\Debug\MainWindow.g.cs
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\obj\Debug\App.g.cs
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\obj\Debug\LoggerSignalR.WPFClient_MarkupCompile.cache
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\obj\Debug\LoggerSignalR.WPFClient.g.resources
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\obj\Debug\LoggerSignalR.WPFClient.Properties.Resources.resources
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\obj\Debug\LoggerSignalR.WPFClient.csproj.GenerateResource.Cache
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\obj\Debug\LoggerSignalR.WPFClient.exe
+C:\Users\xurxo\Dropbox\Desarrollo\ProyectosPersonales\XurxoDeveloper.Blogspot\LoggerSignalR\LoggerSignalR.WPFClient\LoggerSignalR.WPFClient\obj\Debug\LoggerSignalR.WPFClient.pdb

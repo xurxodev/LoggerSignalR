@@ -1,0 +1,18 @@
+﻿<Window x:Class="LoggerSignalR.WPFClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525" Loaded="Window_Loaded">
+    <StackPanel Orientation="Vertical">
+        <StackPanel Orientation="Horizontal">
+            <Button Margin="10" Padding="5" Click="Button_Click">Conectar</Button>
+            <TextBlock Name="txtSate" Width="100" Margin="0 10" Padding="5"/>
+        </StackPanel>
+        <ListBox Name="lstMessages" Height="250">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding}"/>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </StackPanel>
+</Window>
